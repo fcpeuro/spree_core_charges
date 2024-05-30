@@ -8,4 +8,4 @@ source 'http://rubygems.org'
  # end
 
 gemspec
-gem 'spree', '1.1.3'
+gem 'spree', '1.1.4'
